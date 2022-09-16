@@ -23,6 +23,20 @@ Vamos descrever os formulários que compõem o *(Menu > Selos).*
 
 ![configuracoes](https://github.com/gislenetavaresacsiv/SelosDigitaisPR/blob/main/IMAGENS/CONFIGURACOES/1.PNG)
 
+**a. Código:**
+
+**b. Cartório:**
+
+**c. Cód. cartório:**
+
+**d. Usuário:**
+
+**e. Senha:**
+
+**f. Ambiente:**
+
+**g. Envio:**
+
 
 
 ### 2. Emissão de selos
